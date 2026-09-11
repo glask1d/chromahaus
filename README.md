@@ -18,6 +18,18 @@ URLhaus · MalwareBazaar · ThreatFox · Feodo Tracker · SSLBL
 ```
 
 ---
+### Basic Preview
+![chroma](images/chroma1.png)
+
+---
+
+![chroma](images/chroma2.png)
+
+---
+
+![chroma](images/chroma3.png)
+
+---
 
 ## Why this exists
 
